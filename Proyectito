@@ -4,3 +4,5 @@ nombre=input("Escribe tu nombre: ")
 edad=int(input("Escribe tu edad: "))
 
 print("Hello world!"+","+"Hello"+'nombre')
+
+print("Profe Ernesto un 20 please")
