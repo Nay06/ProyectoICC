@@ -1,3 +1,6 @@
 #Esta linea es de prueba
 
-print("Hello world!")
+nombre=input("Escribe tu nombre: ")
+edad=int(input("Escribe tu edad: "))
+
+print("Hello world!"+","+"Hello"+'nombre')
